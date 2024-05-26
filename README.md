@@ -17,4 +17,4 @@ Hi there! I'm Ali, an indie `full-stack developer` building my version of the di
 
 ### 📊 Stats
 
-![aligomaa56's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![aligomaa56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aligomaa56&show_icons=true&theme=gruvbox)
