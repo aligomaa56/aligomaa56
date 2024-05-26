@@ -2,9 +2,7 @@
 
 Hi there! I'm Ali, an indie `full-stack developer` building my version of the digital world one step at a time. All my coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
-My technical expertise includes Python, Flask, HTML, CSS, JavaScript, MySQL, and more. I’m also proficient with tools like VS Code, Jupyter, zsh, HAProxy, Docker, Git, and Jenkins.
-
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
