@@ -11,7 +11,7 @@ Hi there! I'm Ali, an indie `Backend-Developer` building my version of the digit
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="![image](https://github.com/aligomaa56/aligomaa56/assets/138549566/711e8159-93c9-487a-b8f8-ae873f7b235c)" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/aligomaa56/aligomaa56/assets/138549566/d52cabec-48af-4d20-a1ac-992f2d561176" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br>
