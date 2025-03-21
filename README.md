@@ -1,21 +1,19 @@
-Hi there! I'm Ali, building my version of the digital world one step at a time. All my coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
-#
-### *Languages and Tools*
+# Hi, I'm Ali Gomaa 👋  
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/aligomaa56/aligomaa56/assets/138549566/d0c84216-4b6d-4d8f-98db-eff13a1bc45a" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/aligomaa56/aligomaa56/assets/138549566/7eaf0288-9cd4-4cfa-a84d-25f0d0485236" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://github.com/aligomaa56/aligomaa56/assets/138549566/91c15af0-6d4f-4154-bd7a-3d020924f4e2" />
-<br>
+I'm a **Software Engineer** specializing in **backend development**. I spend my days building systems that keep everything running smoothly behind the scenes.  
 
-#
+## 🚀 My Journey  
+My path as a developer took a major turn thanks to [ALX Academy](https://www.alxafrica.com). Its **rigorous 12-month program** of daily projects, challenging tasks, and mindset training completely reshaped how I approach software.  
 
-### *My Stats*
+## 💡 What I Do  
+- **Backend Development** – Designing and optimizing scalable systems  
+- **Freelance Projects** – Collaborating with clients to create custom solutions  
+- **Problem Solving** – [Check out my LeetCode solutions](https://github.com/aligomaa56/leetcode/tree/main/leet)  
 
-![aligomaa56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aligomaa56&show_icons=true&theme=gruvbox)
+## 🛠️ My Passion  
+I love diving deep into the details of software—**understanding how everything works under the hood** rather than just running it. Whether it's debugging an obscure issue or optimizing system performance, I enjoy the process of making things **work efficiently**.  
+
+When I'm not immersed in code, you'll find me **chasing new ideas** and embracing the **quirky, offbeat side of programming**. Every once in a while, a sudden flash of insight turns even the toughest challenges into fun puzzles to solve.  
+
+📬 **Let's Connect!**  
+Feel free to reach out—I'm always open to discussing new ideas, tech, and all things backend!  
